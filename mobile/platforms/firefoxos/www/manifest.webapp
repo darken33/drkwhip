@@ -1,0 +1,19 @@
+{
+    "launch_path": "/index.html",
+    "installs_allowed_from": [
+        "*"
+    ],
+    "version": "1.2",
+    "name": "drkWhip",
+    "description": "Un fouet dans votre mobile !!! (inspiré de la série The Big Bang Theory)",
+    "developer": {
+        "name": "Philippe Bousquet",
+        "url": "http://darken33.free.fr/"
+    },
+    "orientation": ["portrait"],
+    "type": "privileged",
+    "icons": {
+        "60": "/icon/icon-60.png",
+        "128": "/icon/icon-128.png"
+    }
+}
