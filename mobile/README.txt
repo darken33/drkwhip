@@ -1,4 +1,4 @@
-drkWhip v1.0
+drkWhip v1.1
 ------------------------------------------------------------------------
 
 Introduction
@@ -37,6 +37,9 @@ vous béneficiez des quatre libertés fondamentales :
 
 Changelog
 ---------
+v1.0.1 : 
+  - Suppression des temps de latences
+  
 v1.0 : 
   - Première version de drkWhip
   

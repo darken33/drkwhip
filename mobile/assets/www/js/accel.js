@@ -51,10 +51,10 @@ function startWatch() {
       changes.y = Math.abs(previousReading.y, acceleration.y);
     }
     if (changes.x > bound && changes.y > bound) {
-      stopWatch();
+//      stopWatch();
       // We are relying on a hidden button with an ID of shake to be present on the Profound UI Rich Display File screen
 	  whip();
-      setTimeout(startWatch, 2000);
+//      setTimeout(startWatch, 2000);
     }
     previousReading = {
       x: acceleration.x,

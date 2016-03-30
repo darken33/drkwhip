@@ -6,7 +6,7 @@ function soundLoaded() {
 }
 
 function soundErr(err) {
-	alert(err);
+//	alert(err);
 }
 
 function loadSounds() {

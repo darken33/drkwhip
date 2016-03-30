@@ -51,6 +51,7 @@ function  closeMenu() {
 }
 
 function whip() {
+	m_whip.stop();	
 	m_whip.play();	
 }
 
