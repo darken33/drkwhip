@@ -1,4 +1,4 @@
-drkWhip v1.1
+drkWhip v1.3
 ------------------------------------------------------------------------
 
 Introduction
@@ -37,6 +37,14 @@ vous béneficiez des quatre libertés fondamentales :
 
 Changelog
 ---------
+v1.3 :
+  - Migration cordova suite à une alerte de securité
+
+v1.2 :
+  - Dialog box and buttons design improved
+  - First release for FirefoxOS
+  - Better sounds synchronisation
+
 v1.1 : 
   - Passage à cordova 4.0.0 suite à une alerte de sécurité
 

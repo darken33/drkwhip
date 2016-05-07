@@ -7,7 +7,7 @@
  * 
  * This software is under GNU General Public License
  */
-var game_version  = "1.2";
+var game_version  = "1.3";
 var ready = false;
 
 function isFirefoxOS() {

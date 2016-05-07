@@ -4,15 +4,9 @@
         <icon height="128" src="icon/icon-128.png" width="128" />
         <icon height="60" src="icon/icon-60.png" width="60" />
     </platform>
-    <name>drkWhip</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
-    </author>
-    <content src="index.html" />
-    <access origin="*" />
     <feature name="Device">
         <param name="firefoxos-package" value="Device" />
     </feature>
@@ -22,4 +16,13 @@
     <feature name="Notification">
         <param name="firefoxos-package" value="Notification" />
     </feature>
+    <name>drkWhip</name>
+    <description>
+        drkWhip – produces noise of the whip.
+    </description>
+    <author email="darken33@free.fr" href="http://darken33.net/wp/index.php/2013/11/16/drkwhip-produces-noise-of-the-whip/">
+        Philippe Bousquet
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
 </widget>
